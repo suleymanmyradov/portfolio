@@ -1,7 +1,7 @@
 ---
 title: Smart Brain
 publishDate: 2019-12-01 00:00:00
-img: /assets/smart-brain.png
+img: /portfolio/assets/smart-brain.png
 img_alt: photo of face-detection app
 description: |
   
